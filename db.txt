@@ -1,0 +1,2 @@
+alex;lex;lexov;11.01.1994;1422;
+iva;ivan;borov;13.04.1990;1162;
